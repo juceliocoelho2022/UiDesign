@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UiDesign</string>
+    <string name="text_videos">Videos</string>
+    <string name="text_musicas">Musicas</string>
+    <string name="text_noticias">Noticias</string>
+    <string name="text_investimentos">Investimentos</string>
+    <string name="text_categorias">Categorias</string>
+</resources>
